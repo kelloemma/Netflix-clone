@@ -43,6 +43,7 @@ console.log(movies);
             backgroundImage: `url('https://image.tmdb.org/t/p/original${movies?.backdrop_path}')`,
             backgroundPosition: "center",
             backgroundRepeat: "no-repeat",
+            backgroundPosition: "center",
           }}
         >
           <div className="bannerTitel">
